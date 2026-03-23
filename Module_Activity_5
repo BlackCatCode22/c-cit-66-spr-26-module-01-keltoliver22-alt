@@ -1,0 +1,10 @@
+I want to use object-oriented programming and vectors to organize and take care of the animals for the Zookeeper's Challenge program. I will make a base Animal class that has common properties like name, age, species, and cost. If necessary, I will then make derived classes for certain animals.
+
+I will use file I/O to work with the data from arrivingAnimals.txt and animalNames.txt. The program will read each file one line at a time and use the information to make new Animal objects. We will keep these objects in vectors, one for each type of animal (for example, one for lions, tigers, etc.).
+
+A Zoo class will be in charge of the main system. It will keep track of all the animal lists and control things like adding animals, organizing habitats, and keeping track of information.
+
+I looked over an old assignment where I used arrays. I made it better by switching to vectors, which made the code more flexible and easier to work with when I added new animals.
+I tried out both arrays and vectors. I found that vectors are more useful because they can grow dynamically and are easier to use when reading from files.
+
+This module helped me learn more about how to plan programs before I start coding. I also got help from other people, like ChatGPT, to better understand file I/O and class structure.
